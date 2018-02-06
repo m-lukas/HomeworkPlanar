@@ -1,5 +1,4 @@
 # HomeworkPlanar
-
 ## Description
 
 The app was developed during the Code+Design Camp (Berlin | April 2017) in a group of 3 persons. It provides an easy way to share homeworks with the pupils as a teacher. This repository contains only the receiving-part of the apps.
