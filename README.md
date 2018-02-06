@@ -9,3 +9,4 @@ The app was developed during the Code+Design Camp (Berlin | April 2017) in a gro
 - list-view layout with fragments
 - custom action bar
 - alerts with input-field
+- array-adapter
